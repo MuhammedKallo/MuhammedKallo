@@ -14,5 +14,3 @@ Studying Computer Engineering at Uskudar university <br>looking for anything tha
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MuhammedKallo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
