@@ -1,5 +1,5 @@
 #  About Me:
-Studying Computer Engineering at Uskudar university <br>looking for anything that can improve my skills<br>I’m currently learning C language and some algorithms<br>
+Studying Computer Engineering at Uskudar university <br>looking for anything that can improve my skills
 
 
 ## 🌐 Socials:
